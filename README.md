@@ -12,10 +12,20 @@ Actualmente trabajando en proyectos de backend y resolviendo retos de algoritmos
 - 🎯 Me interesa: backend, algoritmos, estructuras de datos, open source.
 
 ---
+## 📊 Resumen
+
+![Resumen](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sannchu&theme=github_dark)
+
+![Lenguajes por repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sannchu&theme=github_dark)
+
+![Stats generales](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sannchu&theme=github_dark)
+
 
 ## 📊 Mis estadísticas
 
 [![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sannchu&theme=github_dark
+
 
 ## 🧑‍💻 Lenguajes que más uso
 
