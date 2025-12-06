@@ -23,18 +23,18 @@ Actualmente trabajando en proyectos de backend y resolviendo retos de algoritmos
 
 ## 📊 Mis estadísticas
 
-[![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sannchu&theme=github_dark
+[![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=sannchu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 🧑‍💻 Lenguajes que más uso
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=sannchu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 👀 Visitas a mi perfil
 
-![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=sannchu&color=blueviolet&style=flat-square)
 
 ---
 
