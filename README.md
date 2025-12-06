@@ -32,6 +32,3 @@ Actualmente trabajando en proyectos de frontend con Angular.
 
 ## 📫 Contacto
 
-- ✉️ Email: tu.email@ejemplo.com  
-- 🔗 LinkedIn / Twitter / lo que uses...
-
