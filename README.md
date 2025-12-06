@@ -31,15 +31,16 @@ https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sannchu
 
 [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## 👀 Visitas a mi perfil
+
+![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square)
+
 ---
 
 ## 💼 Proyectos destacados
 
-Aquí algunos de mis repositorios más interesantes:  
-- [Proyecto1](https://github.com/TU_USUARIO/Proyecto1) — breve descripción  
-- [Proyecto2](https://github.com/TU_USUARIO/Proyecto2) — breve descripción  
 
-*(Puedes usar “extra pins” si quieres destacar más repositorios allá abajo)*
 
 ---
 
