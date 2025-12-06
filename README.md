@@ -1,15 +1,15 @@
 # 👋 Hola, soy Alejandro Sanz
 
 Soy desarrollador en formación, me gusta Java, Python y aprender sobre buenas prácticas 😊  
-Actualmente trabajando en proyectos de backend y resolviendo retos de algoritmos.
+Actualmente trabajando en proyectos de frontend con Angular.
 
 ---
 
 ## 🚀 Sobre mí
 
-- 💻 Programo en: Java, Python, Git.  
+- 💻 Programo en: TypeScript, JavaScript, Git, Java.  
 - 🌱 Aprendiendo: buenas prácticas, control de versiones, testing.  
-- 🎯 Me interesa: backend, algoritmos, estructuras de datos, open source.
+- 🎯 Me interesa: backend, frontend, open source.
 
 ---
 ## 📊 Resumen
