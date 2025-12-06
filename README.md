@@ -36,6 +36,9 @@ Actualmente trabajando en proyectos de backend y resolviendo retos de algoritmos
 
 ![Profile views](https://komarev.com/ghpvc/?username=sannchu&color=blueviolet&style=flat-square)
 
+![Lenguajes por commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sannchu&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannchu&layout=compact&langs_count=10)
 ---
 
 ## 💼 Proyectos destacados
