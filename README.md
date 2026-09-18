@@ -12,17 +12,6 @@ Actualmente trabajando en proyectos de frontend con Angular.
 - 🎯 Me interesa: backend, frontend, open source.
 
 ---
-## 📊 Resumen
-
-![Resumen](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sannchu&theme=github_dark)
-
-![Lenguajes por repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sannchu&theme=github_dark)
-
-![Stats generales](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sannchu&theme=github_dark)
-
-
-
----
 
 ## 💼 Proyectos destacados
 
